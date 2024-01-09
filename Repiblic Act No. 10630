@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REPUBLIC ACT NO. 10630 </title>
+    <style>
+        body {
+            background-color: #f2f2f2; /* Gray background */
+            font-family: 'Arial', sans-serif; /* Custom font style */
+        }
+        section {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: pink box background */
+            border: 1px solid #d1d1d1; /* Box border */
+            border-radius: 8px; /* Rounded corners */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow */
+        }
+        a {
+            text-decoration: none;
+            color: #0066cc; /* Link color */
+        }
+    </style>
+</head>
+<body>
+
+<!-- Page 1 -->
+<section id="page1">
+    <h1>Welcome to R.A 10630 Information</h1>
+    <p>REPUBLIC ACT NO. 10630
+
+AN ACT STRENGTHENING THE JUVENILE JUSTICE SYSTEM IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9344, OTHERWISE KNOWN AS THE "JUVENILE JUSTICE AND WELFARE ACT OF 2006" AND APPROPRIATING FUNDS THEREFOR</p>
+    <a href="#page2">Continue to Page 2</a>
+</section>
+
+<!-- Page 2 -->
+<section id="page2">
+    <h2>R.A 10630 Overview</h2>
+    <p>1. Purpose:
+
+R.A. 10630 aims to strengthen the NIA, emphasizing the crucial role of efficient irrigation in agricultural development.
+
+The law seeks to provide a sustainable and reliable water supply to farmers, ultimately improving crop yields and contributing to food security.
+
+2. Key Provisions:
+
+The law outlines provisions for the expansion, repair, and modernization of irrigation systems.
+
+It promotes the optimal utilization of water resources, emphasizing responsible water management practices.
+
+</p>
+    <!-- Add more content as needed -->
+    <a href="#page3">Continue to Page 3</a>
+</section>
+
+<!-- Page 3 -->
+<section id="page3">
+    <h2>Key Features</h2>
+    <p>Irrigation System Modernization:
+
+R.A. 10630 focuses on the modernization of irrigation systems, aiming to enhance their efficiency and effectiveness in providing water to agricultural lands.
+
+National Irrigation Administration (NIA) Strengthening:
+
+The law strengthens the NIA, empowering the agency to play a central role in the planning, implementation, and management of irrigation projects.
+
+</p>
+    <!-- Add more content as needed -->
+    <a href="#page4">Continue to Page 4</a>
+</section>
+
+<!-- Page 4 -->
+<section id="page4">
+    <h2>Conclusion</h2>
+    <p>In conclusion, Republic Act 10630 stands as a pivotal force in the evolution of Philippine agriculture, addressing critical challenges and laying the groundwork for a sustainable and productive future. By focusing on the modernization and strengthening of irrigation systems, the law signifies a commitment to transforming traditional farming practices into a more resilient and technology-driven sector.</p>
+    <!-- Add more content as needed -->
+</section>
+
+</body>
+</html>
